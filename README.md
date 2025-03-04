@@ -8,4 +8,4 @@ In cases where a model is estimated solely based on input and output data, the r
 
 In this project, we are dealing with a system for which internal details are not accessible. Initially, we aim to derive a model for this system using our knowledge of linear systems in the time and frequency domains. Then, we will analyze this model, design an appropriate controller based on it, and finally, connect the controller to the original system and evaluate its performance.
 
-
+You can find the complete information on data preprocessing, models, and their evaluation in the file LCS_CA.pdf, which is written in English.
